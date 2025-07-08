@@ -26,7 +26,7 @@ A beautifully designed, lightweight desktop chatbot powered by OpenAI’s GPT AP
 
 - 📂 **Data saved in `%APPDATA%\GPTLite`**
 - 🔐 **Secure API Key Input** (stored in local AppData)
-- ⚙️ **Compiling/building of the executable and release
+- ⚙️ **Compiling/building of the executable and release**
 ---
 
 ## 🚀 Installation

@@ -13,7 +13,7 @@ A beautifully designed, lightweight desktop chatbot powered by OpenAI’s GPT AP
 - 🔄 **Sidebar Toggle**, multiple sessions
 - 🎉 **Welcome Screen** with typing animation
 - ⚙️ **Settings Panel** with theme customization
-- 
+  
 
 ---
 
@@ -23,9 +23,10 @@ A beautifully designed, lightweight desktop chatbot powered by OpenAI’s GPT AP
 ---
 
 ## 🚀 TO DO- 
-📂 **Data saved in `%APPDATA%\MiniGPTLite`**
-🔐 **Secure API Key Input** (stored safely in local AppData)
-⚙️ **Compiling/bulding of the executable and release
+
+- 📂 **Data saved in `%APPDATA%\MiniGPTLite`**
+- 🔐 **Secure API Key Input** (stored safely in local AppData)
+- ⚙️ **Compiling/bulding of the executable and release
 ---
 
 ## 🚀 Installation
